@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100pv;
+    width: 100%;
+    background: url('https://th.bing.com/th/id/OIP.yp1sYxePjw72AngmA-aj3QHaDx?w=316&h=178&c=7&o=5&dpr=1.25&pid=1.7') no-repeat center center/cover;
+}
+
+.card{
+    margin-top: 15rem ;
+    margin-left: 40rem;
+    height: 20rem;
+    width: 40%;
+}
+.card-body img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 22px;
+}
